@@ -13,7 +13,7 @@ This is though not part of my Published thesis, but my original work of 2013.
 it uses some mapping algorithms. see the map_noc.c file for different mapping 
 algorithms i have tried. this code is very fast in compared to other test 
 results i have came across.
-I kept it as to publish if i do PHd, but time didnot permit me. Hence making it 
+I kept it as to publish if i do PhD, but time didnot permit me. Hence making it 
 public in the hope it will be helpful to others.
 
 The datasets are taken from several sources and modified for my own use.
