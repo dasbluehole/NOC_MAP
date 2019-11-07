@@ -1,0 +1,8 @@
+###The Graph represented by adjecent list is
+cores = 8
+edges = 8
+froms  = [0,1,1,2,3,4,5,6]
+tos    = [4,2,0,3,6,5,6,7]
+weights= [64.000000,64.000000,128.000000,64.000000,64.000000,64.000000,64.000000,64.000000]
+mesh_rows = 2
+mesh_cols = 4
